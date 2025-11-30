@@ -191,8 +191,7 @@ After running the seed script, you can use these credentials:
   createdAt: Date
 }
 ```
-
-## Screenshots
+// all this are demoed in video explanation.
 
 ### Login Page
 - Clean login interface with demo credentials displayed
